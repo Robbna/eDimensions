@@ -1,0 +1,1230 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="2267" height="144" viewBox="0,0,2267,144">
+  <g id="1 cm. Tick Group" fill="none" fill-rule="nonzero" stroke="none" stroke-width="none"
+    stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none"
+    style="mix-blend-mode: normal">
+    <path d="M0,0v94.48819" id="1 cm. Tick no. 0" fill="none" stroke="#000000" stroke-width="1" />
+    <text x="4" y="95.48819" id="1 cm. label no. 0" fill="#000000" stroke="none" stroke-width="1"
+      font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">0</text>
+    <path d="M37.79528,0v94.48819" id="1 cm. Tick no. 1" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="41.79528" y="95.48819" id="1 cm. label no. 1" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      1</text>
+    <path d="M75.59055,0v94.48819" id="1 cm. Tick no. 2" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="79.59055" y="95.48819" id="1 cm. label no. 2" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      2</text>
+    <path d="M113.38583,0v94.48819" id="1 cm. Tick no. 3" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="117.38583" y="95.48819" id="1 cm. label no. 3" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      3</text>
+    <path d="M151.1811,0v94.48819" id="1 cm. Tick no. 4" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="155.1811" y="95.48819" id="1 cm. label no. 4" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      4</text>
+    <path d="M188.97638,0v94.48819" id="1 cm. Tick no. 5" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="192.97638" y="95.48819" id="1 cm. label no. 5" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      5</text>
+    <path d="M226.77165,0v94.48819" id="1 cm. Tick no. 6" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="230.77165" y="95.48819" id="1 cm. label no. 6" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      6</text>
+    <path d="M264.56693,0v94.48819" id="1 cm. Tick no. 7" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="268.56693" y="95.48819" id="1 cm. label no. 7" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      7</text>
+    <path d="M302.3622,0v94.48819" id="1 cm. Tick no. 8" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="306.3622" y="95.48819" id="1 cm. label no. 8" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      8</text>
+    <path d="M340.15748,0v94.48819" id="1 cm. Tick no. 9" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="344.15748" y="95.48819" id="1 cm. label no. 9" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      9</text>
+    <path d="M377.95276,0v94.48819" id="1 cm. Tick no. 10" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="381.95276" y="95.48819" id="1 cm. label no. 10" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      10</text>
+    <path d="M415.74803,0v94.48819" id="1 cm. Tick no. 11" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="419.74803" y="95.48819" id="1 cm. label no. 11" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      11</text>
+    <path d="M453.54331,0v94.48819" id="1 cm. Tick no. 12" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="457.54331" y="95.48819" id="1 cm. label no. 12" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      12</text>
+    <path d="M491.33858,0v94.48819" id="1 cm. Tick no. 13" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="495.33858" y="95.48819" id="1 cm. label no. 13" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      13</text>
+    <path d="M529.13386,0v94.48819" id="1 cm. Tick no. 14" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="533.13386" y="95.48819" id="1 cm. label no. 14" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      14</text>
+    <path d="M566.92913,0v94.48819" id="1 cm. Tick no. 15" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="570.92913" y="95.48819" id="1 cm. label no. 15" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      15</text>
+    <path d="M604.72441,0v94.48819" id="1 cm. Tick no. 16" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="608.72441" y="95.48819" id="1 cm. label no. 16" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      16</text>
+    <path d="M642.51969,0v94.48819" id="1 cm. Tick no. 17" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="646.51969" y="95.48819" id="1 cm. label no. 17" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      17</text>
+    <path d="M680.31496,0v94.48819" id="1 cm. Tick no. 18" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="684.31496" y="95.48819" id="1 cm. label no. 18" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      18</text>
+    <path d="M718.11024,0v94.48819" id="1 cm. Tick no. 19" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="722.11024" y="95.48819" id="1 cm. label no. 19" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      19</text>
+    <path d="M755.90551,0v94.48819" id="1 cm. Tick no. 20" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="759.90551" y="95.48819" id="1 cm. label no. 20" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      20</text>
+    <path d="M793.70079,0v94.48819" id="1 cm. Tick no. 21" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="797.70079" y="95.48819" id="1 cm. label no. 21" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      21</text>
+    <path d="M831.49606,0v94.48819" id="1 cm. Tick no. 22" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="835.49606" y="95.48819" id="1 cm. label no. 22" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      22</text>
+    <path d="M869.29134,0v94.48819" id="1 cm. Tick no. 23" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="873.29134" y="95.48819" id="1 cm. label no. 23" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      23</text>
+    <path d="M907.08661,0v94.48819" id="1 cm. Tick no. 24" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="911.08661" y="95.48819" id="1 cm. label no. 24" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      24</text>
+    <path d="M944.88189,0v94.48819" id="1 cm. Tick no. 25" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="948.88189" y="95.48819" id="1 cm. label no. 25" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      25</text>
+    <path d="M982.67717,0v94.48819" id="1 cm. Tick no. 26" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="986.67717" y="95.48819" id="1 cm. label no. 26" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      26</text>
+    <path d="M1020.47244,0v94.48819" id="1 cm. Tick no. 27" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1024.47244" y="95.48819" id="1 cm. label no. 27" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      27</text>
+    <path d="M1058.26772,0v94.48819" id="1 cm. Tick no. 28" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1062.26772" y="95.48819" id="1 cm. label no. 28" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      28</text>
+    <path d="M1096.06299,0v94.48819" id="1 cm. Tick no. 29" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1100.06299" y="95.48819" id="1 cm. label no. 29" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      29</text>
+    <path d="M1133.85827,0v94.48819" id="1 cm. Tick no. 30" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1137.85827" y="95.48819" id="1 cm. label no. 30" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      30</text>
+    <path d="M1171.65354,0v94.48819" id="1 cm. Tick no. 31" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1175.65354" y="95.48819" id="1 cm. label no. 31" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      31</text>
+    <path d="M1209.44882,0v94.48819" id="1 cm. Tick no. 32" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1213.44882" y="95.48819" id="1 cm. label no. 32" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      32</text>
+    <path d="M1247.24409,0v94.48819" id="1 cm. Tick no. 33" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1251.24409" y="95.48819" id="1 cm. label no. 33" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      33</text>
+    <path d="M1285.03937,0v94.48819" id="1 cm. Tick no. 34" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1289.03937" y="95.48819" id="1 cm. label no. 34" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      34</text>
+    <path d="M1322.83465,0v94.48819" id="1 cm. Tick no. 35" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1326.83465" y="95.48819" id="1 cm. label no. 35" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      35</text>
+    <path d="M1360.62992,0v94.48819" id="1 cm. Tick no. 36" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1364.62992" y="95.48819" id="1 cm. label no. 36" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      36</text>
+    <path d="M1398.4252,0v94.48819" id="1 cm. Tick no. 37" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1402.4252" y="95.48819" id="1 cm. label no. 37" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      37</text>
+    <path d="M1436.22047,0v94.48819" id="1 cm. Tick no. 38" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1440.22047" y="95.48819" id="1 cm. label no. 38" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      38</text>
+    <path d="M1474.01575,0v94.48819" id="1 cm. Tick no. 39" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1478.01575" y="95.48819" id="1 cm. label no. 39" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      39</text>
+    <path d="M1511.81102,0v94.48819" id="1 cm. Tick no. 40" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1515.81102" y="95.48819" id="1 cm. label no. 40" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      40</text>
+    <path d="M1549.6063,0v94.48819" id="1 cm. Tick no. 41" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1553.6063" y="95.48819" id="1 cm. label no. 41" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      41</text>
+    <path d="M1587.40157,0v94.48819" id="1 cm. Tick no. 42" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1591.40157" y="95.48819" id="1 cm. label no. 42" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      42</text>
+    <path d="M1625.19685,0v94.48819" id="1 cm. Tick no. 43" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1629.19685" y="95.48819" id="1 cm. label no. 43" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      43</text>
+    <path d="M1662.99213,0v94.48819" id="1 cm. Tick no. 44" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1666.99213" y="95.48819" id="1 cm. label no. 44" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      44</text>
+    <path d="M1700.7874,0v94.48819" id="1 cm. Tick no. 45" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1704.7874" y="95.48819" id="1 cm. label no. 45" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      45</text>
+    <path d="M1738.58268,0v94.48819" id="1 cm. Tick no. 46" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1742.58268" y="95.48819" id="1 cm. label no. 46" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      46</text>
+    <path d="M1776.37795,0v94.48819" id="1 cm. Tick no. 47" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1780.37795" y="95.48819" id="1 cm. label no. 47" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      47</text>
+    <path d="M1814.17323,0v94.48819" id="1 cm. Tick no. 48" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1818.17323" y="95.48819" id="1 cm. label no. 48" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      48</text>
+    <path d="M1851.9685,0v94.48819" id="1 cm. Tick no. 49" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1855.9685" y="95.48819" id="1 cm. label no. 49" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      49</text>
+    <path d="M1889.76378,0v94.48819" id="1 cm. Tick no. 50" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1893.76378" y="95.48819" id="1 cm. label no. 50" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      50</text>
+    <path d="M1927.55906,0v94.48819" id="1 cm. Tick no. 51" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1931.55906" y="95.48819" id="1 cm. label no. 51" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      51</text>
+    <path d="M1965.35433,0v94.48819" id="1 cm. Tick no. 52" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="1969.35433" y="95.48819" id="1 cm. label no. 52" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      52</text>
+    <path d="M2003.14961,0v94.48819" id="1 cm. Tick no. 53" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2007.14961" y="95.48819" id="1 cm. label no. 53" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      53</text>
+    <path d="M2040.94488,0v94.48819" id="1 cm. Tick no. 54" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2044.94488" y="95.48819" id="1 cm. label no. 54" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      54</text>
+    <path d="M2078.74016,0v94.48819" id="1 cm. Tick no. 55" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2082.74016" y="95.48819" id="1 cm. label no. 55" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      55</text>
+    <path d="M2116.53543,0v94.48819" id="1 cm. Tick no. 56" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2120.53543" y="95.48819" id="1 cm. label no. 56" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      56</text>
+    <path d="M2154.33071,0v94.48819" id="1 cm. Tick no. 57" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2158.33071" y="95.48819" id="1 cm. label no. 57" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      57</text>
+    <path d="M2192.12598,0v94.48819" id="1 cm. Tick no. 58" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2196.12598" y="95.48819" id="1 cm. label no. 58" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      58</text>
+    <path d="M2229.92126,0v94.48819" id="1 cm. Tick no. 59" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2233.92126" y="95.48819" id="1 cm. label no. 59" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="start">
+      59</text>
+    <path d="M2267.71654,0v94.48819" id="1 cm. Tick no. 60" fill="none" stroke="#000000"
+      stroke-width="1" />
+    <text x="2263.71654" y="95.48819" id="1 cm. label no. 60" fill="#000000" stroke="none"
+      stroke-width="1" font-family="monospace" font-weight="bold" font-size="7" text-anchor="end">60</text>
+  </g>
+  <g id="1/2 cm. Tick Group" fill="none" fill-rule="nonzero" stroke="#000000" stroke-width="1"
+    stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none"
+    style="mix-blend-mode: normal">
+    <path d="M18.89764,0v47.24409" id="1/2 cm. Tick no. 1" />
+    <path d="M56.69291,0v47.24409" id="1/2 cm. Tick no. 3" />
+    <path d="M94.48819,0v47.24409" id="1/2 cm. Tick no. 5" />
+    <path d="M132.28346,0v47.24409" id="1/2 cm. Tick no. 7" />
+    <path d="M170.07874,0v47.24409" id="1/2 cm. Tick no. 9" />
+    <path d="M207.87402,0v47.24409" id="1/2 cm. Tick no. 11" />
+    <path d="M245.66929,0v47.24409" id="1/2 cm. Tick no. 13" />
+    <path d="M283.46457,0v47.24409" id="1/2 cm. Tick no. 15" />
+    <path d="M321.25984,0v47.24409" id="1/2 cm. Tick no. 17" />
+    <path d="M359.05512,0v47.24409" id="1/2 cm. Tick no. 19" />
+    <path d="M396.85039,0v47.24409" id="1/2 cm. Tick no. 21" />
+    <path d="M434.64567,0v47.24409" id="1/2 cm. Tick no. 23" />
+    <path d="M472.44094,0v47.24409" id="1/2 cm. Tick no. 25" />
+    <path d="M510.23622,0v47.24409" id="1/2 cm. Tick no. 27" />
+    <path d="M548.0315,0v47.24409" id="1/2 cm. Tick no. 29" />
+    <path d="M585.82677,0v47.24409" id="1/2 cm. Tick no. 31" />
+    <path d="M623.62205,0v47.24409" id="1/2 cm. Tick no. 33" />
+    <path d="M661.41732,0v47.24409" id="1/2 cm. Tick no. 35" />
+    <path d="M699.2126,0v47.24409" id="1/2 cm. Tick no. 37" />
+    <path d="M737.00787,0v47.24409" id="1/2 cm. Tick no. 39" />
+    <path d="M774.80315,0v47.24409" id="1/2 cm. Tick no. 41" />
+    <path d="M812.59843,0v47.24409" id="1/2 cm. Tick no. 43" />
+    <path d="M850.3937,0v47.24409" id="1/2 cm. Tick no. 45" />
+    <path d="M888.18898,0v47.24409" id="1/2 cm. Tick no. 47" />
+    <path d="M925.98425,0v47.24409" id="1/2 cm. Tick no. 49" />
+    <path d="M963.77953,0v47.24409" id="1/2 cm. Tick no. 51" />
+    <path d="M1001.5748,0v47.24409" id="1/2 cm. Tick no. 53" />
+    <path d="M1039.37008,0v47.24409" id="1/2 cm. Tick no. 55" />
+    <path d="M1077.16535,0v47.24409" id="1/2 cm. Tick no. 57" />
+    <path d="M1114.96063,0v47.24409" id="1/2 cm. Tick no. 59" />
+    <path d="M1152.75591,0v47.24409" id="1/2 cm. Tick no. 61" />
+    <path d="M1190.55118,0v47.24409" id="1/2 cm. Tick no. 63" />
+    <path d="M1228.34646,0v47.24409" id="1/2 cm. Tick no. 65" />
+    <path d="M1266.14173,0v47.24409" id="1/2 cm. Tick no. 67" />
+    <path d="M1303.93701,0v47.24409" id="1/2 cm. Tick no. 69" />
+    <path d="M1341.73228,0v47.24409" id="1/2 cm. Tick no. 71" />
+    <path d="M1379.52756,0v47.24409" id="1/2 cm. Tick no. 73" />
+    <path d="M1417.32283,0v47.24409" id="1/2 cm. Tick no. 75" />
+    <path d="M1455.11811,0v47.24409" id="1/2 cm. Tick no. 77" />
+    <path d="M1492.91339,0v47.24409" id="1/2 cm. Tick no. 79" />
+    <path d="M1530.70866,0v47.24409" id="1/2 cm. Tick no. 81" />
+    <path d="M1568.50394,0v47.24409" id="1/2 cm. Tick no. 83" />
+    <path d="M1606.29921,0v47.24409" id="1/2 cm. Tick no. 85" />
+    <path d="M1644.09449,0v47.24409" id="1/2 cm. Tick no. 87" />
+    <path d="M1681.88976,0v47.24409" id="1/2 cm. Tick no. 89" />
+    <path d="M1719.68504,0v47.24409" id="1/2 cm. Tick no. 91" />
+    <path d="M1757.48031,0v47.24409" id="1/2 cm. Tick no. 93" />
+    <path d="M1795.27559,0v47.24409" id="1/2 cm. Tick no. 95" />
+    <path d="M1833.07087,0v47.24409" id="1/2 cm. Tick no. 97" />
+    <path d="M1870.86614,0v47.24409" id="1/2 cm. Tick no. 99" />
+    <path d="M1908.66142,0v47.24409" id="1/2 cm. Tick no. 101" />
+    <path d="M1946.45669,0v47.24409" id="1/2 cm. Tick no. 103" />
+    <path d="M1984.25197,0v47.24409" id="1/2 cm. Tick no. 105" />
+    <path d="M2022.04724,0v47.24409" id="1/2 cm. Tick no. 107" />
+    <path d="M2059.84252,0v47.24409" id="1/2 cm. Tick no. 109" />
+    <path d="M2097.6378,0v47.24409" id="1/2 cm. Tick no. 111" />
+    <path d="M2135.43307,0v47.24409" id="1/2 cm. Tick no. 113" />
+    <path d="M2173.22835,0v47.24409" id="1/2 cm. Tick no. 115" />
+    <path d="M2211.02362,0v47.24409" id="1/2 cm. Tick no. 117" />
+    <path d="M2248.8189,0v47.24409" id="1/2 cm. Tick no. 119" />
+  </g>
+  <g id="1/4 cm. Tick Group" fill="none" fill-rule="nonzero" stroke="#000000" stroke-width="1"
+    stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none"
+    style="mix-blend-mode: normal">
+    <path d="M9.44882,0v23.62205" id="1/4 cm. Tick no. 1" />
+    <path d="M28.34646,0v23.62205" id="1/4 cm. Tick no. 3" />
+    <path d="M47.24409,0v23.62205" id="1/4 cm. Tick no. 5" />
+    <path d="M66.14173,0v23.62205" id="1/4 cm. Tick no. 7" />
+    <path d="M85.03937,0v23.62205" id="1/4 cm. Tick no. 9" />
+    <path d="M103.93701,0v23.62205" id="1/4 cm. Tick no. 11" />
+    <path d="M122.83465,0v23.62205" id="1/4 cm. Tick no. 13" />
+    <path d="M141.73228,0v23.62205" id="1/4 cm. Tick no. 15" />
+    <path d="M160.62992,0v23.62205" id="1/4 cm. Tick no. 17" />
+    <path d="M179.52756,0v23.62205" id="1/4 cm. Tick no. 19" />
+    <path d="M198.4252,0v23.62205" id="1/4 cm. Tick no. 21" />
+    <path d="M217.32283,0v23.62205" id="1/4 cm. Tick no. 23" />
+    <path d="M236.22047,0v23.62205" id="1/4 cm. Tick no. 25" />
+    <path d="M255.11811,0v23.62205" id="1/4 cm. Tick no. 27" />
+    <path d="M274.01575,0v23.62205" id="1/4 cm. Tick no. 29" />
+    <path d="M292.91339,0v23.62205" id="1/4 cm. Tick no. 31" />
+    <path d="M311.81102,0v23.62205" id="1/4 cm. Tick no. 33" />
+    <path d="M330.70866,0v23.62205" id="1/4 cm. Tick no. 35" />
+    <path d="M349.6063,0v23.62205" id="1/4 cm. Tick no. 37" />
+    <path d="M368.50394,0v23.62205" id="1/4 cm. Tick no. 39" />
+    <path d="M387.40157,0v23.62205" id="1/4 cm. Tick no. 41" />
+    <path d="M406.29921,0v23.62205" id="1/4 cm. Tick no. 43" />
+    <path d="M425.19685,0v23.62205" id="1/4 cm. Tick no. 45" />
+    <path d="M444.09449,0v23.62205" id="1/4 cm. Tick no. 47" />
+    <path d="M462.99213,0v23.62205" id="1/4 cm. Tick no. 49" />
+    <path d="M481.88976,0v23.62205" id="1/4 cm. Tick no. 51" />
+    <path d="M500.7874,0v23.62205" id="1/4 cm. Tick no. 53" />
+    <path d="M519.68504,0v23.62205" id="1/4 cm. Tick no. 55" />
+    <path d="M538.58268,0v23.62205" id="1/4 cm. Tick no. 57" />
+    <path d="M557.48031,0v23.62205" id="1/4 cm. Tick no. 59" />
+    <path d="M576.37795,0v23.62205" id="1/4 cm. Tick no. 61" />
+    <path d="M595.27559,0v23.62205" id="1/4 cm. Tick no. 63" />
+    <path d="M614.17323,0v23.62205" id="1/4 cm. Tick no. 65" />
+    <path d="M633.07087,0v23.62205" id="1/4 cm. Tick no. 67" />
+    <path d="M651.9685,0v23.62205" id="1/4 cm. Tick no. 69" />
+    <path d="M670.86614,0v23.62205" id="1/4 cm. Tick no. 71" />
+    <path d="M689.76378,0v23.62205" id="1/4 cm. Tick no. 73" />
+    <path d="M708.66142,0v23.62205" id="1/4 cm. Tick no. 75" />
+    <path d="M727.55906,0v23.62205" id="1/4 cm. Tick no. 77" />
+    <path d="M746.45669,0v23.62205" id="1/4 cm. Tick no. 79" />
+    <path d="M765.35433,0v23.62205" id="1/4 cm. Tick no. 81" />
+    <path d="M784.25197,0v23.62205" id="1/4 cm. Tick no. 83" />
+    <path d="M803.14961,0v23.62205" id="1/4 cm. Tick no. 85" />
+    <path d="M822.04724,0v23.62205" id="1/4 cm. Tick no. 87" />
+    <path d="M840.94488,0v23.62205" id="1/4 cm. Tick no. 89" />
+    <path d="M859.84252,0v23.62205" id="1/4 cm. Tick no. 91" />
+    <path d="M878.74016,0v23.62205" id="1/4 cm. Tick no. 93" />
+    <path d="M897.6378,0v23.62205" id="1/4 cm. Tick no. 95" />
+    <path d="M916.53543,0v23.62205" id="1/4 cm. Tick no. 97" />
+    <path d="M935.43307,0v23.62205" id="1/4 cm. Tick no. 99" />
+    <path d="M954.33071,0v23.62205" id="1/4 cm. Tick no. 101" />
+    <path d="M973.22835,0v23.62205" id="1/4 cm. Tick no. 103" />
+    <path d="M992.12598,0v23.62205" id="1/4 cm. Tick no. 105" />
+    <path d="M1011.02362,0v23.62205" id="1/4 cm. Tick no. 107" />
+    <path d="M1029.92126,0v23.62205" id="1/4 cm. Tick no. 109" />
+    <path d="M1048.8189,0v23.62205" id="1/4 cm. Tick no. 111" />
+    <path d="M1067.71654,0v23.62205" id="1/4 cm. Tick no. 113" />
+    <path d="M1086.61417,0v23.62205" id="1/4 cm. Tick no. 115" />
+    <path d="M1105.51181,0v23.62205" id="1/4 cm. Tick no. 117" />
+    <path d="M1124.40945,0v23.62205" id="1/4 cm. Tick no. 119" />
+    <path d="M1143.30709,0v23.62205" id="1/4 cm. Tick no. 121" />
+    <path d="M1162.20472,0v23.62205" id="1/4 cm. Tick no. 123" />
+    <path d="M1181.10236,0v23.62205" id="1/4 cm. Tick no. 125" />
+    <path d="M1200,0v23.62205" id="1/4 cm. Tick no. 127" />
+    <path d="M1218.89764,0v23.62205" id="1/4 cm. Tick no. 129" />
+    <path d="M1237.79528,0v23.62205" id="1/4 cm. Tick no. 131" />
+    <path d="M1256.69291,0v23.62205" id="1/4 cm. Tick no. 133" />
+    <path d="M1275.59055,0v23.62205" id="1/4 cm. Tick no. 135" />
+    <path d="M1294.48819,0v23.62205" id="1/4 cm. Tick no. 137" />
+    <path d="M1313.38583,0v23.62205" id="1/4 cm. Tick no. 139" />
+    <path d="M1332.28346,0v23.62205" id="1/4 cm. Tick no. 141" />
+    <path d="M1351.1811,0v23.62205" id="1/4 cm. Tick no. 143" />
+    <path d="M1370.07874,0v23.62205" id="1/4 cm. Tick no. 145" />
+    <path d="M1388.97638,0v23.62205" id="1/4 cm. Tick no. 147" />
+    <path d="M1407.87402,0v23.62205" id="1/4 cm. Tick no. 149" />
+    <path d="M1426.77165,0v23.62205" id="1/4 cm. Tick no. 151" />
+    <path d="M1445.66929,0v23.62205" id="1/4 cm. Tick no. 153" />
+    <path d="M1464.56693,0v23.62205" id="1/4 cm. Tick no. 155" />
+    <path d="M1483.46457,0v23.62205" id="1/4 cm. Tick no. 157" />
+    <path d="M1502.3622,0v23.62205" id="1/4 cm. Tick no. 159" />
+    <path d="M1521.25984,0v23.62205" id="1/4 cm. Tick no. 161" />
+    <path d="M1540.15748,0v23.62205" id="1/4 cm. Tick no. 163" />
+    <path d="M1559.05512,0v23.62205" id="1/4 cm. Tick no. 165" />
+    <path d="M1577.95276,0v23.62205" id="1/4 cm. Tick no. 167" />
+    <path d="M1596.85039,0v23.62205" id="1/4 cm. Tick no. 169" />
+    <path d="M1615.74803,0v23.62205" id="1/4 cm. Tick no. 171" />
+    <path d="M1634.64567,0v23.62205" id="1/4 cm. Tick no. 173" />
+    <path d="M1653.54331,0v23.62205" id="1/4 cm. Tick no. 175" />
+    <path d="M1672.44094,0v23.62205" id="1/4 cm. Tick no. 177" />
+    <path d="M1691.33858,0v23.62205" id="1/4 cm. Tick no. 179" />
+    <path d="M1710.23622,0v23.62205" id="1/4 cm. Tick no. 181" />
+    <path d="M1729.13386,0v23.62205" id="1/4 cm. Tick no. 183" />
+    <path d="M1748.0315,0v23.62205" id="1/4 cm. Tick no. 185" />
+    <path d="M1766.92913,0v23.62205" id="1/4 cm. Tick no. 187" />
+    <path d="M1785.82677,0v23.62205" id="1/4 cm. Tick no. 189" />
+    <path d="M1804.72441,0v23.62205" id="1/4 cm. Tick no. 191" />
+    <path d="M1823.62205,0v23.62205" id="1/4 cm. Tick no. 193" />
+    <path d="M1842.51969,0v23.62205" id="1/4 cm. Tick no. 195" />
+    <path d="M1861.41732,0v23.62205" id="1/4 cm. Tick no. 197" />
+    <path d="M1880.31496,0v23.62205" id="1/4 cm. Tick no. 199" />
+    <path d="M1899.2126,0v23.62205" id="1/4 cm. Tick no. 201" />
+    <path d="M1918.11024,0v23.62205" id="1/4 cm. Tick no. 203" />
+    <path d="M1937.00787,0v23.62205" id="1/4 cm. Tick no. 205" />
+    <path d="M1955.90551,0v23.62205" id="1/4 cm. Tick no. 207" />
+    <path d="M1974.80315,0v23.62205" id="1/4 cm. Tick no. 209" />
+    <path d="M1993.70079,0v23.62205" id="1/4 cm. Tick no. 211" />
+    <path d="M2012.59843,0v23.62205" id="1/4 cm. Tick no. 213" />
+    <path d="M2031.49606,0v23.62205" id="1/4 cm. Tick no. 215" />
+    <path d="M2050.3937,0v23.62205" id="1/4 cm. Tick no. 217" />
+    <path d="M2069.29134,0v23.62205" id="1/4 cm. Tick no. 219" />
+    <path d="M2088.18898,0v23.62205" id="1/4 cm. Tick no. 221" />
+    <path d="M2107.08661,0v23.62205" id="1/4 cm. Tick no. 223" />
+    <path d="M2125.98425,0v23.62205" id="1/4 cm. Tick no. 225" />
+    <path d="M2144.88189,0v23.62205" id="1/4 cm. Tick no. 227" />
+    <path d="M2163.77953,0v23.62205" id="1/4 cm. Tick no. 229" />
+    <path d="M2182.67717,0v23.62205" id="1/4 cm. Tick no. 231" />
+    <path d="M2201.5748,0v23.62205" id="1/4 cm. Tick no. 233" />
+    <path d="M2220.47244,0v23.62205" id="1/4 cm. Tick no. 235" />
+    <path d="M2239.37008,0v23.62205" id="1/4 cm. Tick no. 237" />
+    <path d="M2258.26772,0v23.62205" id="1/4 cm. Tick no. 239" />
+  </g>
+  <g id="1/8 cm. Tick Group" fill="none" fill-rule="nonzero" stroke="#000000" stroke-width="1"
+    stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none"
+    style="mix-blend-mode: normal">
+    <path d="M4.72441,0v11.81102" id="1/8 cm. Tick no. 1" />
+    <path d="M14.17323,0v11.81102" id="1/8 cm. Tick no. 3" />
+    <path d="M23.62205,0v11.81102" id="1/8 cm. Tick no. 5" />
+    <path d="M33.07087,0v11.81102" id="1/8 cm. Tick no. 7" />
+    <path d="M42.51969,0v11.81102" id="1/8 cm. Tick no. 9" />
+    <path d="M51.9685,0v11.81102" id="1/8 cm. Tick no. 11" />
+    <path d="M61.41732,0v11.81102" id="1/8 cm. Tick no. 13" />
+    <path d="M70.86614,0v11.81102" id="1/8 cm. Tick no. 15" />
+    <path d="M80.31496,0v11.81102" id="1/8 cm. Tick no. 17" />
+    <path d="M89.76378,0v11.81102" id="1/8 cm. Tick no. 19" />
+    <path d="M99.2126,0v11.81102" id="1/8 cm. Tick no. 21" />
+    <path d="M108.66142,0v11.81102" id="1/8 cm. Tick no. 23" />
+    <path d="M118.11024,0v11.81102" id="1/8 cm. Tick no. 25" />
+    <path d="M127.55906,0v11.81102" id="1/8 cm. Tick no. 27" />
+    <path d="M137.00787,0v11.81102" id="1/8 cm. Tick no. 29" />
+    <path d="M146.45669,0v11.81102" id="1/8 cm. Tick no. 31" />
+    <path d="M155.90551,0v11.81102" id="1/8 cm. Tick no. 33" />
+    <path d="M165.35433,0v11.81102" id="1/8 cm. Tick no. 35" />
+    <path d="M174.80315,0v11.81102" id="1/8 cm. Tick no. 37" />
+    <path d="M184.25197,0v11.81102" id="1/8 cm. Tick no. 39" />
+    <path d="M193.70079,0v11.81102" id="1/8 cm. Tick no. 41" />
+    <path d="M203.14961,0v11.81102" id="1/8 cm. Tick no. 43" />
+    <path d="M212.59843,0v11.81102" id="1/8 cm. Tick no. 45" />
+    <path d="M222.04724,0v11.81102" id="1/8 cm. Tick no. 47" />
+    <path d="M231.49606,0v11.81102" id="1/8 cm. Tick no. 49" />
+    <path d="M240.94488,0v11.81102" id="1/8 cm. Tick no. 51" />
+    <path d="M250.3937,0v11.81102" id="1/8 cm. Tick no. 53" />
+    <path d="M259.84252,0v11.81102" id="1/8 cm. Tick no. 55" />
+    <path d="M269.29134,0v11.81102" id="1/8 cm. Tick no. 57" />
+    <path d="M278.74016,0v11.81102" id="1/8 cm. Tick no. 59" />
+    <path d="M288.18898,0v11.81102" id="1/8 cm. Tick no. 61" />
+    <path d="M297.6378,0v11.81102" id="1/8 cm. Tick no. 63" />
+    <path d="M307.08661,0v11.81102" id="1/8 cm. Tick no. 65" />
+    <path d="M316.53543,0v11.81102" id="1/8 cm. Tick no. 67" />
+    <path d="M325.98425,0v11.81102" id="1/8 cm. Tick no. 69" />
+    <path d="M335.43307,0v11.81102" id="1/8 cm. Tick no. 71" />
+    <path d="M344.88189,0v11.81102" id="1/8 cm. Tick no. 73" />
+    <path d="M354.33071,0v11.81102" id="1/8 cm. Tick no. 75" />
+    <path d="M363.77953,0v11.81102" id="1/8 cm. Tick no. 77" />
+    <path d="M373.22835,0v11.81102" id="1/8 cm. Tick no. 79" />
+    <path d="M382.67717,0v11.81102" id="1/8 cm. Tick no. 81" />
+    <path d="M392.12598,0v11.81102" id="1/8 cm. Tick no. 83" />
+    <path d="M401.5748,0v11.81102" id="1/8 cm. Tick no. 85" />
+    <path d="M411.02362,0v11.81102" id="1/8 cm. Tick no. 87" />
+    <path d="M420.47244,0v11.81102" id="1/8 cm. Tick no. 89" />
+    <path d="M429.92126,0v11.81102" id="1/8 cm. Tick no. 91" />
+    <path d="M439.37008,0v11.81102" id="1/8 cm. Tick no. 93" />
+    <path d="M448.8189,0v11.81102" id="1/8 cm. Tick no. 95" />
+    <path d="M458.26772,0v11.81102" id="1/8 cm. Tick no. 97" />
+    <path d="M467.71654,0v11.81102" id="1/8 cm. Tick no. 99" />
+    <path d="M477.16535,0v11.81102" id="1/8 cm. Tick no. 101" />
+    <path d="M486.61417,0v11.81102" id="1/8 cm. Tick no. 103" />
+    <path d="M496.06299,0v11.81102" id="1/8 cm. Tick no. 105" />
+    <path d="M505.51181,0v11.81102" id="1/8 cm. Tick no. 107" />
+    <path d="M514.96063,0v11.81102" id="1/8 cm. Tick no. 109" />
+    <path d="M524.40945,0v11.81102" id="1/8 cm. Tick no. 111" />
+    <path d="M533.85827,0v11.81102" id="1/8 cm. Tick no. 113" />
+    <path d="M543.30709,0v11.81102" id="1/8 cm. Tick no. 115" />
+    <path d="M552.75591,0v11.81102" id="1/8 cm. Tick no. 117" />
+    <path d="M562.20472,0v11.81102" id="1/8 cm. Tick no. 119" />
+    <path d="M571.65354,0v11.81102" id="1/8 cm. Tick no. 121" />
+    <path d="M581.10236,0v11.81102" id="1/8 cm. Tick no. 123" />
+    <path d="M590.55118,0v11.81102" id="1/8 cm. Tick no. 125" />
+    <path d="M600,0v11.81102" id="1/8 cm. Tick no. 127" />
+    <path d="M609.44882,0v11.81102" id="1/8 cm. Tick no. 129" />
+    <path d="M618.89764,0v11.81102" id="1/8 cm. Tick no. 131" />
+    <path d="M628.34646,0v11.81102" id="1/8 cm. Tick no. 133" />
+    <path d="M637.79528,0v11.81102" id="1/8 cm. Tick no. 135" />
+    <path d="M647.24409,0v11.81102" id="1/8 cm. Tick no. 137" />
+    <path d="M656.69291,0v11.81102" id="1/8 cm. Tick no. 139" />
+    <path d="M666.14173,0v11.81102" id="1/8 cm. Tick no. 141" />
+    <path d="M675.59055,0v11.81102" id="1/8 cm. Tick no. 143" />
+    <path d="M685.03937,0v11.81102" id="1/8 cm. Tick no. 145" />
+    <path d="M694.48819,0v11.81102" id="1/8 cm. Tick no. 147" />
+    <path d="M703.93701,0v11.81102" id="1/8 cm. Tick no. 149" />
+    <path d="M713.38583,0v11.81102" id="1/8 cm. Tick no. 151" />
+    <path d="M722.83465,0v11.81102" id="1/8 cm. Tick no. 153" />
+    <path d="M732.28346,0v11.81102" id="1/8 cm. Tick no. 155" />
+    <path d="M741.73228,0v11.81102" id="1/8 cm. Tick no. 157" />
+    <path d="M751.1811,0v11.81102" id="1/8 cm. Tick no. 159" />
+    <path d="M760.62992,0v11.81102" id="1/8 cm. Tick no. 161" />
+    <path d="M770.07874,0v11.81102" id="1/8 cm. Tick no. 163" />
+    <path d="M779.52756,0v11.81102" id="1/8 cm. Tick no. 165" />
+    <path d="M788.97638,0v11.81102" id="1/8 cm. Tick no. 167" />
+    <path d="M798.4252,0v11.81102" id="1/8 cm. Tick no. 169" />
+    <path d="M807.87402,0v11.81102" id="1/8 cm. Tick no. 171" />
+    <path d="M817.32283,0v11.81102" id="1/8 cm. Tick no. 173" />
+    <path d="M826.77165,0v11.81102" id="1/8 cm. Tick no. 175" />
+    <path d="M836.22047,0v11.81102" id="1/8 cm. Tick no. 177" />
+    <path d="M845.66929,0v11.81102" id="1/8 cm. Tick no. 179" />
+    <path d="M855.11811,0v11.81102" id="1/8 cm. Tick no. 181" />
+    <path d="M864.56693,0v11.81102" id="1/8 cm. Tick no. 183" />
+    <path d="M874.01575,0v11.81102" id="1/8 cm. Tick no. 185" />
+    <path d="M883.46457,0v11.81102" id="1/8 cm. Tick no. 187" />
+    <path d="M892.91339,0v11.81102" id="1/8 cm. Tick no. 189" />
+    <path d="M902.3622,0v11.81102" id="1/8 cm. Tick no. 191" />
+    <path d="M911.81102,0v11.81102" id="1/8 cm. Tick no. 193" />
+    <path d="M921.25984,0v11.81102" id="1/8 cm. Tick no. 195" />
+    <path d="M930.70866,0v11.81102" id="1/8 cm. Tick no. 197" />
+    <path d="M940.15748,0v11.81102" id="1/8 cm. Tick no. 199" />
+    <path d="M949.6063,0v11.81102" id="1/8 cm. Tick no. 201" />
+    <path d="M959.05512,0v11.81102" id="1/8 cm. Tick no. 203" />
+    <path d="M968.50394,0v11.81102" id="1/8 cm. Tick no. 205" />
+    <path d="M977.95276,0v11.81102" id="1/8 cm. Tick no. 207" />
+    <path d="M987.40157,0v11.81102" id="1/8 cm. Tick no. 209" />
+    <path d="M996.85039,0v11.81102" id="1/8 cm. Tick no. 211" />
+    <path d="M1006.29921,0v11.81102" id="1/8 cm. Tick no. 213" />
+    <path d="M1015.74803,0v11.81102" id="1/8 cm. Tick no. 215" />
+    <path d="M1025.19685,0v11.81102" id="1/8 cm. Tick no. 217" />
+    <path d="M1034.64567,0v11.81102" id="1/8 cm. Tick no. 219" />
+    <path d="M1044.09449,0v11.81102" id="1/8 cm. Tick no. 221" />
+    <path d="M1053.54331,0v11.81102" id="1/8 cm. Tick no. 223" />
+    <path d="M1062.99213,0v11.81102" id="1/8 cm. Tick no. 225" />
+    <path d="M1072.44094,0v11.81102" id="1/8 cm. Tick no. 227" />
+    <path d="M1081.88976,0v11.81102" id="1/8 cm. Tick no. 229" />
+    <path d="M1091.33858,0v11.81102" id="1/8 cm. Tick no. 231" />
+    <path d="M1100.7874,0v11.81102" id="1/8 cm. Tick no. 233" />
+    <path d="M1110.23622,0v11.81102" id="1/8 cm. Tick no. 235" />
+    <path d="M1119.68504,0v11.81102" id="1/8 cm. Tick no. 237" />
+    <path d="M1129.13386,0v11.81102" id="1/8 cm. Tick no. 239" />
+    <path d="M1138.58268,0v11.81102" id="1/8 cm. Tick no. 241" />
+    <path d="M1148.0315,0v11.81102" id="1/8 cm. Tick no. 243" />
+    <path d="M1157.48031,0v11.81102" id="1/8 cm. Tick no. 245" />
+    <path d="M1166.92913,0v11.81102" id="1/8 cm. Tick no. 247" />
+    <path d="M1176.37795,0v11.81102" id="1/8 cm. Tick no. 249" />
+    <path d="M1185.82677,0v11.81102" id="1/8 cm. Tick no. 251" />
+    <path d="M1195.27559,0v11.81102" id="1/8 cm. Tick no. 253" />
+    <path d="M1204.72441,0v11.81102" id="1/8 cm. Tick no. 255" />
+    <path d="M1214.17323,0v11.81102" id="1/8 cm. Tick no. 257" />
+    <path d="M1223.62205,0v11.81102" id="1/8 cm. Tick no. 259" />
+    <path d="M1233.07087,0v11.81102" id="1/8 cm. Tick no. 261" />
+    <path d="M1242.51969,0v11.81102" id="1/8 cm. Tick no. 263" />
+    <path d="M1251.9685,0v11.81102" id="1/8 cm. Tick no. 265" />
+    <path d="M1261.41732,0v11.81102" id="1/8 cm. Tick no. 267" />
+    <path d="M1270.86614,0v11.81102" id="1/8 cm. Tick no. 269" />
+    <path d="M1280.31496,0v11.81102" id="1/8 cm. Tick no. 271" />
+    <path d="M1289.76378,0v11.81102" id="1/8 cm. Tick no. 273" />
+    <path d="M1299.2126,0v11.81102" id="1/8 cm. Tick no. 275" />
+    <path d="M1308.66142,0v11.81102" id="1/8 cm. Tick no. 277" />
+    <path d="M1318.11024,0v11.81102" id="1/8 cm. Tick no. 279" />
+    <path d="M1327.55906,0v11.81102" id="1/8 cm. Tick no. 281" />
+    <path d="M1337.00787,0v11.81102" id="1/8 cm. Tick no. 283" />
+    <path d="M1346.45669,0v11.81102" id="1/8 cm. Tick no. 285" />
+    <path d="M1355.90551,0v11.81102" id="1/8 cm. Tick no. 287" />
+    <path d="M1365.35433,0v11.81102" id="1/8 cm. Tick no. 289" />
+    <path d="M1374.80315,0v11.81102" id="1/8 cm. Tick no. 291" />
+    <path d="M1384.25197,0v11.81102" id="1/8 cm. Tick no. 293" />
+    <path d="M1393.70079,0v11.81102" id="1/8 cm. Tick no. 295" />
+    <path d="M1403.14961,0v11.81102" id="1/8 cm. Tick no. 297" />
+    <path d="M1412.59843,0v11.81102" id="1/8 cm. Tick no. 299" />
+    <path d="M1422.04724,0v11.81102" id="1/8 cm. Tick no. 301" />
+    <path d="M1431.49606,0v11.81102" id="1/8 cm. Tick no. 303" />
+    <path d="M1440.94488,0v11.81102" id="1/8 cm. Tick no. 305" />
+    <path d="M1450.3937,0v11.81102" id="1/8 cm. Tick no. 307" />
+    <path d="M1459.84252,0v11.81102" id="1/8 cm. Tick no. 309" />
+    <path d="M1469.29134,0v11.81102" id="1/8 cm. Tick no. 311" />
+    <path d="M1478.74016,0v11.81102" id="1/8 cm. Tick no. 313" />
+    <path d="M1488.18898,0v11.81102" id="1/8 cm. Tick no. 315" />
+    <path d="M1497.6378,0v11.81102" id="1/8 cm. Tick no. 317" />
+    <path d="M1507.08661,0v11.81102" id="1/8 cm. Tick no. 319" />
+    <path d="M1516.53543,0v11.81102" id="1/8 cm. Tick no. 321" />
+    <path d="M1525.98425,0v11.81102" id="1/8 cm. Tick no. 323" />
+    <path d="M1535.43307,0v11.81102" id="1/8 cm. Tick no. 325" />
+    <path d="M1544.88189,0v11.81102" id="1/8 cm. Tick no. 327" />
+    <path d="M1554.33071,0v11.81102" id="1/8 cm. Tick no. 329" />
+    <path d="M1563.77953,0v11.81102" id="1/8 cm. Tick no. 331" />
+    <path d="M1573.22835,0v11.81102" id="1/8 cm. Tick no. 333" />
+    <path d="M1582.67717,0v11.81102" id="1/8 cm. Tick no. 335" />
+    <path d="M1592.12598,0v11.81102" id="1/8 cm. Tick no. 337" />
+    <path d="M1601.5748,0v11.81102" id="1/8 cm. Tick no. 339" />
+    <path d="M1611.02362,0v11.81102" id="1/8 cm. Tick no. 341" />
+    <path d="M1620.47244,0v11.81102" id="1/8 cm. Tick no. 343" />
+    <path d="M1629.92126,0v11.81102" id="1/8 cm. Tick no. 345" />
+    <path d="M1639.37008,0v11.81102" id="1/8 cm. Tick no. 347" />
+    <path d="M1648.8189,0v11.81102" id="1/8 cm. Tick no. 349" />
+    <path d="M1658.26772,0v11.81102" id="1/8 cm. Tick no. 351" />
+    <path d="M1667.71654,0v11.81102" id="1/8 cm. Tick no. 353" />
+    <path d="M1677.16535,0v11.81102" id="1/8 cm. Tick no. 355" />
+    <path d="M1686.61417,0v11.81102" id="1/8 cm. Tick no. 357" />
+    <path d="M1696.06299,0v11.81102" id="1/8 cm. Tick no. 359" />
+    <path d="M1705.51181,0v11.81102" id="1/8 cm. Tick no. 361" />
+    <path d="M1714.96063,0v11.81102" id="1/8 cm. Tick no. 363" />
+    <path d="M1724.40945,0v11.81102" id="1/8 cm. Tick no. 365" />
+    <path d="M1733.85827,0v11.81102" id="1/8 cm. Tick no. 367" />
+    <path d="M1743.30709,0v11.81102" id="1/8 cm. Tick no. 369" />
+    <path d="M1752.75591,0v11.81102" id="1/8 cm. Tick no. 371" />
+    <path d="M1762.20472,0v11.81102" id="1/8 cm. Tick no. 373" />
+    <path d="M1771.65354,0v11.81102" id="1/8 cm. Tick no. 375" />
+    <path d="M1781.10236,0v11.81102" id="1/8 cm. Tick no. 377" />
+    <path d="M1790.55118,0v11.81102" id="1/8 cm. Tick no. 379" />
+    <path d="M1800,0v11.81102" id="1/8 cm. Tick no. 381" />
+    <path d="M1809.44882,0v11.81102" id="1/8 cm. Tick no. 383" />
+    <path d="M1818.89764,0v11.81102" id="1/8 cm. Tick no. 385" />
+    <path d="M1828.34646,0v11.81102" id="1/8 cm. Tick no. 387" />
+    <path d="M1837.79528,0v11.81102" id="1/8 cm. Tick no. 389" />
+    <path d="M1847.24409,0v11.81102" id="1/8 cm. Tick no. 391" />
+    <path d="M1856.69291,0v11.81102" id="1/8 cm. Tick no. 393" />
+    <path d="M1866.14173,0v11.81102" id="1/8 cm. Tick no. 395" />
+    <path d="M1875.59055,0v11.81102" id="1/8 cm. Tick no. 397" />
+    <path d="M1885.03937,0v11.81102" id="1/8 cm. Tick no. 399" />
+    <path d="M1894.48819,0v11.81102" id="1/8 cm. Tick no. 401" />
+    <path d="M1903.93701,0v11.81102" id="1/8 cm. Tick no. 403" />
+    <path d="M1913.38583,0v11.81102" id="1/8 cm. Tick no. 405" />
+    <path d="M1922.83465,0v11.81102" id="1/8 cm. Tick no. 407" />
+    <path d="M1932.28346,0v11.81102" id="1/8 cm. Tick no. 409" />
+    <path d="M1941.73228,0v11.81102" id="1/8 cm. Tick no. 411" />
+    <path d="M1951.1811,0v11.81102" id="1/8 cm. Tick no. 413" />
+    <path d="M1960.62992,0v11.81102" id="1/8 cm. Tick no. 415" />
+    <path d="M1970.07874,0v11.81102" id="1/8 cm. Tick no. 417" />
+    <path d="M1979.52756,0v11.81102" id="1/8 cm. Tick no. 419" />
+    <path d="M1988.97638,0v11.81102" id="1/8 cm. Tick no. 421" />
+    <path d="M1998.4252,0v11.81102" id="1/8 cm. Tick no. 423" />
+    <path d="M2007.87402,0v11.81102" id="1/8 cm. Tick no. 425" />
+    <path d="M2017.32283,0v11.81102" id="1/8 cm. Tick no. 427" />
+    <path d="M2026.77165,0v11.81102" id="1/8 cm. Tick no. 429" />
+    <path d="M2036.22047,0v11.81102" id="1/8 cm. Tick no. 431" />
+    <path d="M2045.66929,0v11.81102" id="1/8 cm. Tick no. 433" />
+    <path d="M2055.11811,0v11.81102" id="1/8 cm. Tick no. 435" />
+    <path d="M2064.56693,0v11.81102" id="1/8 cm. Tick no. 437" />
+    <path d="M2074.01575,0v11.81102" id="1/8 cm. Tick no. 439" />
+    <path d="M2083.46457,0v11.81102" id="1/8 cm. Tick no. 441" />
+    <path d="M2092.91339,0v11.81102" id="1/8 cm. Tick no. 443" />
+    <path d="M2102.3622,0v11.81102" id="1/8 cm. Tick no. 445" />
+    <path d="M2111.81102,0v11.81102" id="1/8 cm. Tick no. 447" />
+    <path d="M2121.25984,0v11.81102" id="1/8 cm. Tick no. 449" />
+    <path d="M2130.70866,0v11.81102" id="1/8 cm. Tick no. 451" />
+    <path d="M2140.15748,0v11.81102" id="1/8 cm. Tick no. 453" />
+    <path d="M2149.6063,0v11.81102" id="1/8 cm. Tick no. 455" />
+    <path d="M2159.05512,0v11.81102" id="1/8 cm. Tick no. 457" />
+    <path d="M2168.50394,0v11.81102" id="1/8 cm. Tick no. 459" />
+    <path d="M2177.95276,0v11.81102" id="1/8 cm. Tick no. 461" />
+    <path d="M2187.40157,0v11.81102" id="1/8 cm. Tick no. 463" />
+    <path d="M2196.85039,0v11.81102" id="1/8 cm. Tick no. 465" />
+    <path d="M2206.29921,0v11.81102" id="1/8 cm. Tick no. 467" />
+    <path d="M2215.74803,0v11.81102" id="1/8 cm. Tick no. 469" />
+    <path d="M2225.19685,0v11.81102" id="1/8 cm. Tick no. 471" />
+    <path d="M2234.64567,0v11.81102" id="1/8 cm. Tick no. 473" />
+    <path d="M2244.09449,0v11.81102" id="1/8 cm. Tick no. 475" />
+    <path d="M2253.54331,0v11.81102" id="1/8 cm. Tick no. 477" />
+    <path d="M2262.99213,0v11.81102" id="1/8 cm. Tick no. 479" />
+  </g>
+  <g id="1/16 cm. Tick Group" fill="none" fill-rule="nonzero" stroke="#000000" stroke-width="1"
+    stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none"
+    style="mix-blend-mode: normal">
+    <path d="M2.3622,0v5.90551" id="1/16 cm. Tick no. 1" />
+    <path d="M7.08661,0v5.90551" id="1/16 cm. Tick no. 3" />
+    <path d="M11.81102,0v5.90551" id="1/16 cm. Tick no. 5" />
+    <path d="M16.53543,0v5.90551" id="1/16 cm. Tick no. 7" />
+    <path d="M21.25984,0v5.90551" id="1/16 cm. Tick no. 9" />
+    <path d="M25.98425,0v5.90551" id="1/16 cm. Tick no. 11" />
+    <path d="M30.70866,0v5.90551" id="1/16 cm. Tick no. 13" />
+    <path d="M35.43307,0v5.90551" id="1/16 cm. Tick no. 15" />
+    <path d="M40.15748,0v5.90551" id="1/16 cm. Tick no. 17" />
+    <path d="M44.88189,0v5.90551" id="1/16 cm. Tick no. 19" />
+    <path d="M49.6063,0v5.90551" id="1/16 cm. Tick no. 21" />
+    <path d="M54.33071,0v5.90551" id="1/16 cm. Tick no. 23" />
+    <path d="M59.05512,0v5.90551" id="1/16 cm. Tick no. 25" />
+    <path d="M63.77953,0v5.90551" id="1/16 cm. Tick no. 27" />
+    <path d="M68.50394,0v5.90551" id="1/16 cm. Tick no. 29" />
+    <path d="M73.22835,0v5.90551" id="1/16 cm. Tick no. 31" />
+    <path d="M77.95276,0v5.90551" id="1/16 cm. Tick no. 33" />
+    <path d="M82.67717,0v5.90551" id="1/16 cm. Tick no. 35" />
+    <path d="M87.40157,0v5.90551" id="1/16 cm. Tick no. 37" />
+    <path d="M92.12598,0v5.90551" id="1/16 cm. Tick no. 39" />
+    <path d="M96.85039,0v5.90551" id="1/16 cm. Tick no. 41" />
+    <path d="M101.5748,0v5.90551" id="1/16 cm. Tick no. 43" />
+    <path d="M106.29921,0v5.90551" id="1/16 cm. Tick no. 45" />
+    <path d="M111.02362,0v5.90551" id="1/16 cm. Tick no. 47" />
+    <path d="M115.74803,0v5.90551" id="1/16 cm. Tick no. 49" />
+    <path d="M120.47244,0v5.90551" id="1/16 cm. Tick no. 51" />
+    <path d="M125.19685,0v5.90551" id="1/16 cm. Tick no. 53" />
+    <path d="M129.92126,0v5.90551" id="1/16 cm. Tick no. 55" />
+    <path d="M134.64567,0v5.90551" id="1/16 cm. Tick no. 57" />
+    <path d="M139.37008,0v5.90551" id="1/16 cm. Tick no. 59" />
+    <path d="M144.09449,0v5.90551" id="1/16 cm. Tick no. 61" />
+    <path d="M148.8189,0v5.90551" id="1/16 cm. Tick no. 63" />
+    <path d="M153.54331,0v5.90551" id="1/16 cm. Tick no. 65" />
+    <path d="M158.26772,0v5.90551" id="1/16 cm. Tick no. 67" />
+    <path d="M162.99213,0v5.90551" id="1/16 cm. Tick no. 69" />
+    <path d="M167.71654,0v5.90551" id="1/16 cm. Tick no. 71" />
+    <path d="M172.44094,0v5.90551" id="1/16 cm. Tick no. 73" />
+    <path d="M177.16535,0v5.90551" id="1/16 cm. Tick no. 75" />
+    <path d="M181.88976,0v5.90551" id="1/16 cm. Tick no. 77" />
+    <path d="M186.61417,0v5.90551" id="1/16 cm. Tick no. 79" />
+    <path d="M191.33858,0v5.90551" id="1/16 cm. Tick no. 81" />
+    <path d="M196.06299,0v5.90551" id="1/16 cm. Tick no. 83" />
+    <path d="M200.7874,0v5.90551" id="1/16 cm. Tick no. 85" />
+    <path d="M205.51181,0v5.90551" id="1/16 cm. Tick no. 87" />
+    <path d="M210.23622,0v5.90551" id="1/16 cm. Tick no. 89" />
+    <path d="M214.96063,0v5.90551" id="1/16 cm. Tick no. 91" />
+    <path d="M219.68504,0v5.90551" id="1/16 cm. Tick no. 93" />
+    <path d="M224.40945,0v5.90551" id="1/16 cm. Tick no. 95" />
+    <path d="M229.13386,0v5.90551" id="1/16 cm. Tick no. 97" />
+    <path d="M233.85827,0v5.90551" id="1/16 cm. Tick no. 99" />
+    <path d="M238.58268,0v5.90551" id="1/16 cm. Tick no. 101" />
+    <path d="M243.30709,0v5.90551" id="1/16 cm. Tick no. 103" />
+    <path d="M248.0315,0v5.90551" id="1/16 cm. Tick no. 105" />
+    <path d="M252.75591,0v5.90551" id="1/16 cm. Tick no. 107" />
+    <path d="M257.48031,0v5.90551" id="1/16 cm. Tick no. 109" />
+    <path d="M262.20472,0v5.90551" id="1/16 cm. Tick no. 111" />
+    <path d="M266.92913,0v5.90551" id="1/16 cm. Tick no. 113" />
+    <path d="M271.65354,0v5.90551" id="1/16 cm. Tick no. 115" />
+    <path d="M276.37795,0v5.90551" id="1/16 cm. Tick no. 117" />
+    <path d="M281.10236,0v5.90551" id="1/16 cm. Tick no. 119" />
+    <path d="M285.82677,0v5.90551" id="1/16 cm. Tick no. 121" />
+    <path d="M290.55118,0v5.90551" id="1/16 cm. Tick no. 123" />
+    <path d="M295.27559,0v5.90551" id="1/16 cm. Tick no. 125" />
+    <path d="M300,0v5.90551" id="1/16 cm. Tick no. 127" />
+    <path d="M304.72441,0v5.90551" id="1/16 cm. Tick no. 129" />
+    <path d="M309.44882,0v5.90551" id="1/16 cm. Tick no. 131" />
+    <path d="M314.17323,0v5.90551" id="1/16 cm. Tick no. 133" />
+    <path d="M318.89764,0v5.90551" id="1/16 cm. Tick no. 135" />
+    <path d="M323.62205,0v5.90551" id="1/16 cm. Tick no. 137" />
+    <path d="M328.34646,0v5.90551" id="1/16 cm. Tick no. 139" />
+    <path d="M333.07087,0v5.90551" id="1/16 cm. Tick no. 141" />
+    <path d="M337.79528,0v5.90551" id="1/16 cm. Tick no. 143" />
+    <path d="M342.51969,0v5.90551" id="1/16 cm. Tick no. 145" />
+    <path d="M347.24409,0v5.90551" id="1/16 cm. Tick no. 147" />
+    <path d="M351.9685,0v5.90551" id="1/16 cm. Tick no. 149" />
+    <path d="M356.69291,0v5.90551" id="1/16 cm. Tick no. 151" />
+    <path d="M361.41732,0v5.90551" id="1/16 cm. Tick no. 153" />
+    <path d="M366.14173,0v5.90551" id="1/16 cm. Tick no. 155" />
+    <path d="M370.86614,0v5.90551" id="1/16 cm. Tick no. 157" />
+    <path d="M375.59055,0v5.90551" id="1/16 cm. Tick no. 159" />
+    <path d="M380.31496,0v5.90551" id="1/16 cm. Tick no. 161" />
+    <path d="M385.03937,0v5.90551" id="1/16 cm. Tick no. 163" />
+    <path d="M389.76378,0v5.90551" id="1/16 cm. Tick no. 165" />
+    <path d="M394.48819,0v5.90551" id="1/16 cm. Tick no. 167" />
+    <path d="M399.2126,0v5.90551" id="1/16 cm. Tick no. 169" />
+    <path d="M403.93701,0v5.90551" id="1/16 cm. Tick no. 171" />
+    <path d="M408.66142,0v5.90551" id="1/16 cm. Tick no. 173" />
+    <path d="M413.38583,0v5.90551" id="1/16 cm. Tick no. 175" />
+    <path d="M418.11024,0v5.90551" id="1/16 cm. Tick no. 177" />
+    <path d="M422.83465,0v5.90551" id="1/16 cm. Tick no. 179" />
+    <path d="M427.55906,0v5.90551" id="1/16 cm. Tick no. 181" />
+    <path d="M432.28346,0v5.90551" id="1/16 cm. Tick no. 183" />
+    <path d="M437.00787,0v5.90551" id="1/16 cm. Tick no. 185" />
+    <path d="M441.73228,0v5.90551" id="1/16 cm. Tick no. 187" />
+    <path d="M446.45669,0v5.90551" id="1/16 cm. Tick no. 189" />
+    <path d="M451.1811,0v5.90551" id="1/16 cm. Tick no. 191" />
+    <path d="M455.90551,0v5.90551" id="1/16 cm. Tick no. 193" />
+    <path d="M460.62992,0v5.90551" id="1/16 cm. Tick no. 195" />
+    <path d="M465.35433,0v5.90551" id="1/16 cm. Tick no. 197" />
+    <path d="M470.07874,0v5.90551" id="1/16 cm. Tick no. 199" />
+    <path d="M474.80315,0v5.90551" id="1/16 cm. Tick no. 201" />
+    <path d="M479.52756,0v5.90551" id="1/16 cm. Tick no. 203" />
+    <path d="M484.25197,0v5.90551" id="1/16 cm. Tick no. 205" />
+    <path d="M488.97638,0v5.90551" id="1/16 cm. Tick no. 207" />
+    <path d="M493.70079,0v5.90551" id="1/16 cm. Tick no. 209" />
+    <path d="M498.4252,0v5.90551" id="1/16 cm. Tick no. 211" />
+    <path d="M503.14961,0v5.90551" id="1/16 cm. Tick no. 213" />
+    <path d="M507.87402,0v5.90551" id="1/16 cm. Tick no. 215" />
+    <path d="M512.59843,0v5.90551" id="1/16 cm. Tick no. 217" />
+    <path d="M517.32283,0v5.90551" id="1/16 cm. Tick no. 219" />
+    <path d="M522.04724,0v5.90551" id="1/16 cm. Tick no. 221" />
+    <path d="M526.77165,0v5.90551" id="1/16 cm. Tick no. 223" />
+    <path d="M531.49606,0v5.90551" id="1/16 cm. Tick no. 225" />
+    <path d="M536.22047,0v5.90551" id="1/16 cm. Tick no. 227" />
+    <path d="M540.94488,0v5.90551" id="1/16 cm. Tick no. 229" />
+    <path d="M545.66929,0v5.90551" id="1/16 cm. Tick no. 231" />
+    <path d="M550.3937,0v5.90551" id="1/16 cm. Tick no. 233" />
+    <path d="M555.11811,0v5.90551" id="1/16 cm. Tick no. 235" />
+    <path d="M559.84252,0v5.90551" id="1/16 cm. Tick no. 237" />
+    <path d="M564.56693,0v5.90551" id="1/16 cm. Tick no. 239" />
+    <path d="M569.29134,0v5.90551" id="1/16 cm. Tick no. 241" />
+    <path d="M574.01575,0v5.90551" id="1/16 cm. Tick no. 243" />
+    <path d="M578.74016,0v5.90551" id="1/16 cm. Tick no. 245" />
+    <path d="M583.46457,0v5.90551" id="1/16 cm. Tick no. 247" />
+    <path d="M588.18898,0v5.90551" id="1/16 cm. Tick no. 249" />
+    <path d="M592.91339,0v5.90551" id="1/16 cm. Tick no. 251" />
+    <path d="M597.6378,0v5.90551" id="1/16 cm. Tick no. 253" />
+    <path d="M602.3622,0v5.90551" id="1/16 cm. Tick no. 255" />
+    <path d="M607.08661,0v5.90551" id="1/16 cm. Tick no. 257" />
+    <path d="M611.81102,0v5.90551" id="1/16 cm. Tick no. 259" />
+    <path d="M616.53543,0v5.90551" id="1/16 cm. Tick no. 261" />
+    <path d="M621.25984,0v5.90551" id="1/16 cm. Tick no. 263" />
+    <path d="M625.98425,0v5.90551" id="1/16 cm. Tick no. 265" />
+    <path d="M630.70866,0v5.90551" id="1/16 cm. Tick no. 267" />
+    <path d="M635.43307,0v5.90551" id="1/16 cm. Tick no. 269" />
+    <path d="M640.15748,0v5.90551" id="1/16 cm. Tick no. 271" />
+    <path d="M644.88189,0v5.90551" id="1/16 cm. Tick no. 273" />
+    <path d="M649.6063,0v5.90551" id="1/16 cm. Tick no. 275" />
+    <path d="M654.33071,0v5.90551" id="1/16 cm. Tick no. 277" />
+    <path d="M659.05512,0v5.90551" id="1/16 cm. Tick no. 279" />
+    <path d="M663.77953,0v5.90551" id="1/16 cm. Tick no. 281" />
+    <path d="M668.50394,0v5.90551" id="1/16 cm. Tick no. 283" />
+    <path d="M673.22835,0v5.90551" id="1/16 cm. Tick no. 285" />
+    <path d="M677.95276,0v5.90551" id="1/16 cm. Tick no. 287" />
+    <path d="M682.67717,0v5.90551" id="1/16 cm. Tick no. 289" />
+    <path d="M687.40157,0v5.90551" id="1/16 cm. Tick no. 291" />
+    <path d="M692.12598,0v5.90551" id="1/16 cm. Tick no. 293" />
+    <path d="M696.85039,0v5.90551" id="1/16 cm. Tick no. 295" />
+    <path d="M701.5748,0v5.90551" id="1/16 cm. Tick no. 297" />
+    <path d="M706.29921,0v5.90551" id="1/16 cm. Tick no. 299" />
+    <path d="M711.02362,0v5.90551" id="1/16 cm. Tick no. 301" />
+    <path d="M715.74803,0v5.90551" id="1/16 cm. Tick no. 303" />
+    <path d="M720.47244,0v5.90551" id="1/16 cm. Tick no. 305" />
+    <path d="M725.19685,0v5.90551" id="1/16 cm. Tick no. 307" />
+    <path d="M729.92126,0v5.90551" id="1/16 cm. Tick no. 309" />
+    <path d="M734.64567,0v5.90551" id="1/16 cm. Tick no. 311" />
+    <path d="M739.37008,0v5.90551" id="1/16 cm. Tick no. 313" />
+    <path d="M744.09449,0v5.90551" id="1/16 cm. Tick no. 315" />
+    <path d="M748.8189,0v5.90551" id="1/16 cm. Tick no. 317" />
+    <path d="M753.54331,0v5.90551" id="1/16 cm. Tick no. 319" />
+    <path d="M758.26772,0v5.90551" id="1/16 cm. Tick no. 321" />
+    <path d="M762.99213,0v5.90551" id="1/16 cm. Tick no. 323" />
+    <path d="M767.71654,0v5.90551" id="1/16 cm. Tick no. 325" />
+    <path d="M772.44094,0v5.90551" id="1/16 cm. Tick no. 327" />
+    <path d="M777.16535,0v5.90551" id="1/16 cm. Tick no. 329" />
+    <path d="M781.88976,0v5.90551" id="1/16 cm. Tick no. 331" />
+    <path d="M786.61417,0v5.90551" id="1/16 cm. Tick no. 333" />
+    <path d="M791.33858,0v5.90551" id="1/16 cm. Tick no. 335" />
+    <path d="M796.06299,0v5.90551" id="1/16 cm. Tick no. 337" />
+    <path d="M800.7874,0v5.90551" id="1/16 cm. Tick no. 339" />
+    <path d="M805.51181,0v5.90551" id="1/16 cm. Tick no. 341" />
+    <path d="M810.23622,0v5.90551" id="1/16 cm. Tick no. 343" />
+    <path d="M814.96063,0v5.90551" id="1/16 cm. Tick no. 345" />
+    <path d="M819.68504,0v5.90551" id="1/16 cm. Tick no. 347" />
+    <path d="M824.40945,0v5.90551" id="1/16 cm. Tick no. 349" />
+    <path d="M829.13386,0v5.90551" id="1/16 cm. Tick no. 351" />
+    <path d="M833.85827,0v5.90551" id="1/16 cm. Tick no. 353" />
+    <path d="M838.58268,0v5.90551" id="1/16 cm. Tick no. 355" />
+    <path d="M843.30709,0v5.90551" id="1/16 cm. Tick no. 357" />
+    <path d="M848.0315,0v5.90551" id="1/16 cm. Tick no. 359" />
+    <path d="M852.75591,0v5.90551" id="1/16 cm. Tick no. 361" />
+    <path d="M857.48031,0v5.90551" id="1/16 cm. Tick no. 363" />
+    <path d="M862.20472,0v5.90551" id="1/16 cm. Tick no. 365" />
+    <path d="M866.92913,0v5.90551" id="1/16 cm. Tick no. 367" />
+    <path d="M871.65354,0v5.90551" id="1/16 cm. Tick no. 369" />
+    <path d="M876.37795,0v5.90551" id="1/16 cm. Tick no. 371" />
+    <path d="M881.10236,0v5.90551" id="1/16 cm. Tick no. 373" />
+    <path d="M885.82677,0v5.90551" id="1/16 cm. Tick no. 375" />
+    <path d="M890.55118,0v5.90551" id="1/16 cm. Tick no. 377" />
+    <path d="M895.27559,0v5.90551" id="1/16 cm. Tick no. 379" />
+    <path d="M900,0v5.90551" id="1/16 cm. Tick no. 381" />
+    <path d="M904.72441,0v5.90551" id="1/16 cm. Tick no. 383" />
+    <path d="M909.44882,0v5.90551" id="1/16 cm. Tick no. 385" />
+    <path d="M914.17323,0v5.90551" id="1/16 cm. Tick no. 387" />
+    <path d="M918.89764,0v5.90551" id="1/16 cm. Tick no. 389" />
+    <path d="M923.62205,0v5.90551" id="1/16 cm. Tick no. 391" />
+    <path d="M928.34646,0v5.90551" id="1/16 cm. Tick no. 393" />
+    <path d="M933.07087,0v5.90551" id="1/16 cm. Tick no. 395" />
+    <path d="M937.79528,0v5.90551" id="1/16 cm. Tick no. 397" />
+    <path d="M942.51969,0v5.90551" id="1/16 cm. Tick no. 399" />
+    <path d="M947.24409,0v5.90551" id="1/16 cm. Tick no. 401" />
+    <path d="M951.9685,0v5.90551" id="1/16 cm. Tick no. 403" />
+    <path d="M956.69291,0v5.90551" id="1/16 cm. Tick no. 405" />
+    <path d="M961.41732,0v5.90551" id="1/16 cm. Tick no. 407" />
+    <path d="M966.14173,0v5.90551" id="1/16 cm. Tick no. 409" />
+    <path d="M970.86614,0v5.90551" id="1/16 cm. Tick no. 411" />
+    <path d="M975.59055,0v5.90551" id="1/16 cm. Tick no. 413" />
+    <path d="M980.31496,0v5.90551" id="1/16 cm. Tick no. 415" />
+    <path d="M985.03937,0v5.90551" id="1/16 cm. Tick no. 417" />
+    <path d="M989.76378,0v5.90551" id="1/16 cm. Tick no. 419" />
+    <path d="M994.48819,0v5.90551" id="1/16 cm. Tick no. 421" />
+    <path d="M999.2126,0v5.90551" id="1/16 cm. Tick no. 423" />
+    <path d="M1003.93701,0v5.90551" id="1/16 cm. Tick no. 425" />
+    <path d="M1008.66142,0v5.90551" id="1/16 cm. Tick no. 427" />
+    <path d="M1013.38583,0v5.90551" id="1/16 cm. Tick no. 429" />
+    <path d="M1018.11024,0v5.90551" id="1/16 cm. Tick no. 431" />
+    <path d="M1022.83465,0v5.90551" id="1/16 cm. Tick no. 433" />
+    <path d="M1027.55906,0v5.90551" id="1/16 cm. Tick no. 435" />
+    <path d="M1032.28346,0v5.90551" id="1/16 cm. Tick no. 437" />
+    <path d="M1037.00787,0v5.90551" id="1/16 cm. Tick no. 439" />
+    <path d="M1041.73228,0v5.90551" id="1/16 cm. Tick no. 441" />
+    <path d="M1046.45669,0v5.90551" id="1/16 cm. Tick no. 443" />
+    <path d="M1051.1811,0v5.90551" id="1/16 cm. Tick no. 445" />
+    <path d="M1055.90551,0v5.90551" id="1/16 cm. Tick no. 447" />
+    <path d="M1060.62992,0v5.90551" id="1/16 cm. Tick no. 449" />
+    <path d="M1065.35433,0v5.90551" id="1/16 cm. Tick no. 451" />
+    <path d="M1070.07874,0v5.90551" id="1/16 cm. Tick no. 453" />
+    <path d="M1074.80315,0v5.90551" id="1/16 cm. Tick no. 455" />
+    <path d="M1079.52756,0v5.90551" id="1/16 cm. Tick no. 457" />
+    <path d="M1084.25197,0v5.90551" id="1/16 cm. Tick no. 459" />
+    <path d="M1088.97638,0v5.90551" id="1/16 cm. Tick no. 461" />
+    <path d="M1093.70079,0v5.90551" id="1/16 cm. Tick no. 463" />
+    <path d="M1098.4252,0v5.90551" id="1/16 cm. Tick no. 465" />
+    <path d="M1103.14961,0v5.90551" id="1/16 cm. Tick no. 467" />
+    <path d="M1107.87402,0v5.90551" id="1/16 cm. Tick no. 469" />
+    <path d="M1112.59843,0v5.90551" id="1/16 cm. Tick no. 471" />
+    <path d="M1117.32283,0v5.90551" id="1/16 cm. Tick no. 473" />
+    <path d="M1122.04724,0v5.90551" id="1/16 cm. Tick no. 475" />
+    <path d="M1126.77165,0v5.90551" id="1/16 cm. Tick no. 477" />
+    <path d="M1131.49606,0v5.90551" id="1/16 cm. Tick no. 479" />
+    <path d="M1136.22047,0v5.90551" id="1/16 cm. Tick no. 481" />
+    <path d="M1140.94488,0v5.90551" id="1/16 cm. Tick no. 483" />
+    <path d="M1145.66929,0v5.90551" id="1/16 cm. Tick no. 485" />
+    <path d="M1150.3937,0v5.90551" id="1/16 cm. Tick no. 487" />
+    <path d="M1155.11811,0v5.90551" id="1/16 cm. Tick no. 489" />
+    <path d="M1159.84252,0v5.90551" id="1/16 cm. Tick no. 491" />
+    <path d="M1164.56693,0v5.90551" id="1/16 cm. Tick no. 493" />
+    <path d="M1169.29134,0v5.90551" id="1/16 cm. Tick no. 495" />
+    <path d="M1174.01575,0v5.90551" id="1/16 cm. Tick no. 497" />
+    <path d="M1178.74016,0v5.90551" id="1/16 cm. Tick no. 499" />
+    <path d="M1183.46457,0v5.90551" id="1/16 cm. Tick no. 501" />
+    <path d="M1188.18898,0v5.90551" id="1/16 cm. Tick no. 503" />
+    <path d="M1192.91339,0v5.90551" id="1/16 cm. Tick no. 505" />
+    <path d="M1197.6378,0v5.90551" id="1/16 cm. Tick no. 507" />
+    <path d="M1202.3622,0v5.90551" id="1/16 cm. Tick no. 509" />
+    <path d="M1207.08661,0v5.90551" id="1/16 cm. Tick no. 511" />
+    <path d="M1211.81102,0v5.90551" id="1/16 cm. Tick no. 513" />
+    <path d="M1216.53543,0v5.90551" id="1/16 cm. Tick no. 515" />
+    <path d="M1221.25984,0v5.90551" id="1/16 cm. Tick no. 517" />
+    <path d="M1225.98425,0v5.90551" id="1/16 cm. Tick no. 519" />
+    <path d="M1230.70866,0v5.90551" id="1/16 cm. Tick no. 521" />
+    <path d="M1235.43307,0v5.90551" id="1/16 cm. Tick no. 523" />
+    <path d="M1240.15748,0v5.90551" id="1/16 cm. Tick no. 525" />
+    <path d="M1244.88189,0v5.90551" id="1/16 cm. Tick no. 527" />
+    <path d="M1249.6063,0v5.90551" id="1/16 cm. Tick no. 529" />
+    <path d="M1254.33071,0v5.90551" id="1/16 cm. Tick no. 531" />
+    <path d="M1259.05512,0v5.90551" id="1/16 cm. Tick no. 533" />
+    <path d="M1263.77953,0v5.90551" id="1/16 cm. Tick no. 535" />
+    <path d="M1268.50394,0v5.90551" id="1/16 cm. Tick no. 537" />
+    <path d="M1273.22835,0v5.90551" id="1/16 cm. Tick no. 539" />
+    <path d="M1277.95276,0v5.90551" id="1/16 cm. Tick no. 541" />
+    <path d="M1282.67717,0v5.90551" id="1/16 cm. Tick no. 543" />
+    <path d="M1287.40157,0v5.90551" id="1/16 cm. Tick no. 545" />
+    <path d="M1292.12598,0v5.90551" id="1/16 cm. Tick no. 547" />
+    <path d="M1296.85039,0v5.90551" id="1/16 cm. Tick no. 549" />
+    <path d="M1301.5748,0v5.90551" id="1/16 cm. Tick no. 551" />
+    <path d="M1306.29921,0v5.90551" id="1/16 cm. Tick no. 553" />
+    <path d="M1311.02362,0v5.90551" id="1/16 cm. Tick no. 555" />
+    <path d="M1315.74803,0v5.90551" id="1/16 cm. Tick no. 557" />
+    <path d="M1320.47244,0v5.90551" id="1/16 cm. Tick no. 559" />
+    <path d="M1325.19685,0v5.90551" id="1/16 cm. Tick no. 561" />
+    <path d="M1329.92126,0v5.90551" id="1/16 cm. Tick no. 563" />
+    <path d="M1334.64567,0v5.90551" id="1/16 cm. Tick no. 565" />
+    <path d="M1339.37008,0v5.90551" id="1/16 cm. Tick no. 567" />
+    <path d="M1344.09449,0v5.90551" id="1/16 cm. Tick no. 569" />
+    <path d="M1348.8189,0v5.90551" id="1/16 cm. Tick no. 571" />
+    <path d="M1353.54331,0v5.90551" id="1/16 cm. Tick no. 573" />
+    <path d="M1358.26772,0v5.90551" id="1/16 cm. Tick no. 575" />
+    <path d="M1362.99213,0v5.90551" id="1/16 cm. Tick no. 577" />
+    <path d="M1367.71654,0v5.90551" id="1/16 cm. Tick no. 579" />
+    <path d="M1372.44094,0v5.90551" id="1/16 cm. Tick no. 581" />
+    <path d="M1377.16535,0v5.90551" id="1/16 cm. Tick no. 583" />
+    <path d="M1381.88976,0v5.90551" id="1/16 cm. Tick no. 585" />
+    <path d="M1386.61417,0v5.90551" id="1/16 cm. Tick no. 587" />
+    <path d="M1391.33858,0v5.90551" id="1/16 cm. Tick no. 589" />
+    <path d="M1396.06299,0v5.90551" id="1/16 cm. Tick no. 591" />
+    <path d="M1400.7874,0v5.90551" id="1/16 cm. Tick no. 593" />
+    <path d="M1405.51181,0v5.90551" id="1/16 cm. Tick no. 595" />
+    <path d="M1410.23622,0v5.90551" id="1/16 cm. Tick no. 597" />
+    <path d="M1414.96063,0v5.90551" id="1/16 cm. Tick no. 599" />
+    <path d="M1419.68504,0v5.90551" id="1/16 cm. Tick no. 601" />
+    <path d="M1424.40945,0v5.90551" id="1/16 cm. Tick no. 603" />
+    <path d="M1429.13386,0v5.90551" id="1/16 cm. Tick no. 605" />
+    <path d="M1433.85827,0v5.90551" id="1/16 cm. Tick no. 607" />
+    <path d="M1438.58268,0v5.90551" id="1/16 cm. Tick no. 609" />
+    <path d="M1443.30709,0v5.90551" id="1/16 cm. Tick no. 611" />
+    <path d="M1448.0315,0v5.90551" id="1/16 cm. Tick no. 613" />
+    <path d="M1452.75591,0v5.90551" id="1/16 cm. Tick no. 615" />
+    <path d="M1457.48031,0v5.90551" id="1/16 cm. Tick no. 617" />
+    <path d="M1462.20472,0v5.90551" id="1/16 cm. Tick no. 619" />
+    <path d="M1466.92913,0v5.90551" id="1/16 cm. Tick no. 621" />
+    <path d="M1471.65354,0v5.90551" id="1/16 cm. Tick no. 623" />
+    <path d="M1476.37795,0v5.90551" id="1/16 cm. Tick no. 625" />
+    <path d="M1481.10236,0v5.90551" id="1/16 cm. Tick no. 627" />
+    <path d="M1485.82677,0v5.90551" id="1/16 cm. Tick no. 629" />
+    <path d="M1490.55118,0v5.90551" id="1/16 cm. Tick no. 631" />
+    <path d="M1495.27559,0v5.90551" id="1/16 cm. Tick no. 633" />
+    <path d="M1500,0v5.90551" id="1/16 cm. Tick no. 635" />
+    <path d="M1504.72441,0v5.90551" id="1/16 cm. Tick no. 637" />
+    <path d="M1509.44882,0v5.90551" id="1/16 cm. Tick no. 639" />
+    <path d="M1514.17323,0v5.90551" id="1/16 cm. Tick no. 641" />
+    <path d="M1518.89764,0v5.90551" id="1/16 cm. Tick no. 643" />
+    <path d="M1523.62205,0v5.90551" id="1/16 cm. Tick no. 645" />
+    <path d="M1528.34646,0v5.90551" id="1/16 cm. Tick no. 647" />
+    <path d="M1533.07087,0v5.90551" id="1/16 cm. Tick no. 649" />
+    <path d="M1537.79528,0v5.90551" id="1/16 cm. Tick no. 651" />
+    <path d="M1542.51969,0v5.90551" id="1/16 cm. Tick no. 653" />
+    <path d="M1547.24409,0v5.90551" id="1/16 cm. Tick no. 655" />
+    <path d="M1551.9685,0v5.90551" id="1/16 cm. Tick no. 657" />
+    <path d="M1556.69291,0v5.90551" id="1/16 cm. Tick no. 659" />
+    <path d="M1561.41732,0v5.90551" id="1/16 cm. Tick no. 661" />
+    <path d="M1566.14173,0v5.90551" id="1/16 cm. Tick no. 663" />
+    <path d="M1570.86614,0v5.90551" id="1/16 cm. Tick no. 665" />
+    <path d="M1575.59055,0v5.90551" id="1/16 cm. Tick no. 667" />
+    <path d="M1580.31496,0v5.90551" id="1/16 cm. Tick no. 669" />
+    <path d="M1585.03937,0v5.90551" id="1/16 cm. Tick no. 671" />
+    <path d="M1589.76378,0v5.90551" id="1/16 cm. Tick no. 673" />
+    <path d="M1594.48819,0v5.90551" id="1/16 cm. Tick no. 675" />
+    <path d="M1599.2126,0v5.90551" id="1/16 cm. Tick no. 677" />
+    <path d="M1603.93701,0v5.90551" id="1/16 cm. Tick no. 679" />
+    <path d="M1608.66142,0v5.90551" id="1/16 cm. Tick no. 681" />
+    <path d="M1613.38583,0v5.90551" id="1/16 cm. Tick no. 683" />
+    <path d="M1618.11024,0v5.90551" id="1/16 cm. Tick no. 685" />
+    <path d="M1622.83465,0v5.90551" id="1/16 cm. Tick no. 687" />
+    <path d="M1627.55906,0v5.90551" id="1/16 cm. Tick no. 689" />
+    <path d="M1632.28346,0v5.90551" id="1/16 cm. Tick no. 691" />
+    <path d="M1637.00787,0v5.90551" id="1/16 cm. Tick no. 693" />
+    <path d="M1641.73228,0v5.90551" id="1/16 cm. Tick no. 695" />
+    <path d="M1646.45669,0v5.90551" id="1/16 cm. Tick no. 697" />
+    <path d="M1651.1811,0v5.90551" id="1/16 cm. Tick no. 699" />
+    <path d="M1655.90551,0v5.90551" id="1/16 cm. Tick no. 701" />
+    <path d="M1660.62992,0v5.90551" id="1/16 cm. Tick no. 703" />
+    <path d="M1665.35433,0v5.90551" id="1/16 cm. Tick no. 705" />
+    <path d="M1670.07874,0v5.90551" id="1/16 cm. Tick no. 707" />
+    <path d="M1674.80315,0v5.90551" id="1/16 cm. Tick no. 709" />
+    <path d="M1679.52756,0v5.90551" id="1/16 cm. Tick no. 711" />
+    <path d="M1684.25197,0v5.90551" id="1/16 cm. Tick no. 713" />
+    <path d="M1688.97638,0v5.90551" id="1/16 cm. Tick no. 715" />
+    <path d="M1693.70079,0v5.90551" id="1/16 cm. Tick no. 717" />
+    <path d="M1698.4252,0v5.90551" id="1/16 cm. Tick no. 719" />
+    <path d="M1703.14961,0v5.90551" id="1/16 cm. Tick no. 721" />
+    <path d="M1707.87402,0v5.90551" id="1/16 cm. Tick no. 723" />
+    <path d="M1712.59843,0v5.90551" id="1/16 cm. Tick no. 725" />
+    <path d="M1717.32283,0v5.90551" id="1/16 cm. Tick no. 727" />
+    <path d="M1722.04724,0v5.90551" id="1/16 cm. Tick no. 729" />
+    <path d="M1726.77165,0v5.90551" id="1/16 cm. Tick no. 731" />
+    <path d="M1731.49606,0v5.90551" id="1/16 cm. Tick no. 733" />
+    <path d="M1736.22047,0v5.90551" id="1/16 cm. Tick no. 735" />
+    <path d="M1740.94488,0v5.90551" id="1/16 cm. Tick no. 737" />
+    <path d="M1745.66929,0v5.90551" id="1/16 cm. Tick no. 739" />
+    <path d="M1750.3937,0v5.90551" id="1/16 cm. Tick no. 741" />
+    <path d="M1755.11811,0v5.90551" id="1/16 cm. Tick no. 743" />
+    <path d="M1759.84252,0v5.90551" id="1/16 cm. Tick no. 745" />
+    <path d="M1764.56693,0v5.90551" id="1/16 cm. Tick no. 747" />
+    <path d="M1769.29134,0v5.90551" id="1/16 cm. Tick no. 749" />
+    <path d="M1774.01575,0v5.90551" id="1/16 cm. Tick no. 751" />
+    <path d="M1778.74016,0v5.90551" id="1/16 cm. Tick no. 753" />
+    <path d="M1783.46457,0v5.90551" id="1/16 cm. Tick no. 755" />
+    <path d="M1788.18898,0v5.90551" id="1/16 cm. Tick no. 757" />
+    <path d="M1792.91339,0v5.90551" id="1/16 cm. Tick no. 759" />
+    <path d="M1797.6378,0v5.90551" id="1/16 cm. Tick no. 761" />
+    <path d="M1802.3622,0v5.90551" id="1/16 cm. Tick no. 763" />
+    <path d="M1807.08661,0v5.90551" id="1/16 cm. Tick no. 765" />
+    <path d="M1811.81102,0v5.90551" id="1/16 cm. Tick no. 767" />
+    <path d="M1816.53543,0v5.90551" id="1/16 cm. Tick no. 769" />
+    <path d="M1821.25984,0v5.90551" id="1/16 cm. Tick no. 771" />
+    <path d="M1825.98425,0v5.90551" id="1/16 cm. Tick no. 773" />
+    <path d="M1830.70866,0v5.90551" id="1/16 cm. Tick no. 775" />
+    <path d="M1835.43307,0v5.90551" id="1/16 cm. Tick no. 777" />
+    <path d="M1840.15748,0v5.90551" id="1/16 cm. Tick no. 779" />
+    <path d="M1844.88189,0v5.90551" id="1/16 cm. Tick no. 781" />
+    <path d="M1849.6063,0v5.90551" id="1/16 cm. Tick no. 783" />
+    <path d="M1854.33071,0v5.90551" id="1/16 cm. Tick no. 785" />
+    <path d="M1859.05512,0v5.90551" id="1/16 cm. Tick no. 787" />
+    <path d="M1863.77953,0v5.90551" id="1/16 cm. Tick no. 789" />
+    <path d="M1868.50394,0v5.90551" id="1/16 cm. Tick no. 791" />
+    <path d="M1873.22835,0v5.90551" id="1/16 cm. Tick no. 793" />
+    <path d="M1877.95276,0v5.90551" id="1/16 cm. Tick no. 795" />
+    <path d="M1882.67717,0v5.90551" id="1/16 cm. Tick no. 797" />
+    <path d="M1887.40157,0v5.90551" id="1/16 cm. Tick no. 799" />
+    <path d="M1892.12598,0v5.90551" id="1/16 cm. Tick no. 801" />
+    <path d="M1896.85039,0v5.90551" id="1/16 cm. Tick no. 803" />
+    <path d="M1901.5748,0v5.90551" id="1/16 cm. Tick no. 805" />
+    <path d="M1906.29921,0v5.90551" id="1/16 cm. Tick no. 807" />
+    <path d="M1911.02362,0v5.90551" id="1/16 cm. Tick no. 809" />
+    <path d="M1915.74803,0v5.90551" id="1/16 cm. Tick no. 811" />
+    <path d="M1920.47244,0v5.90551" id="1/16 cm. Tick no. 813" />
+    <path d="M1925.19685,0v5.90551" id="1/16 cm. Tick no. 815" />
+    <path d="M1929.92126,0v5.90551" id="1/16 cm. Tick no. 817" />
+    <path d="M1934.64567,0v5.90551" id="1/16 cm. Tick no. 819" />
+    <path d="M1939.37008,0v5.90551" id="1/16 cm. Tick no. 821" />
+    <path d="M1944.09449,0v5.90551" id="1/16 cm. Tick no. 823" />
+    <path d="M1948.8189,0v5.90551" id="1/16 cm. Tick no. 825" />
+    <path d="M1953.54331,0v5.90551" id="1/16 cm. Tick no. 827" />
+    <path d="M1958.26772,0v5.90551" id="1/16 cm. Tick no. 829" />
+    <path d="M1962.99213,0v5.90551" id="1/16 cm. Tick no. 831" />
+    <path d="M1967.71654,0v5.90551" id="1/16 cm. Tick no. 833" />
+    <path d="M1972.44094,0v5.90551" id="1/16 cm. Tick no. 835" />
+    <path d="M1977.16535,0v5.90551" id="1/16 cm. Tick no. 837" />
+    <path d="M1981.88976,0v5.90551" id="1/16 cm. Tick no. 839" />
+    <path d="M1986.61417,0v5.90551" id="1/16 cm. Tick no. 841" />
+    <path d="M1991.33858,0v5.90551" id="1/16 cm. Tick no. 843" />
+    <path d="M1996.06299,0v5.90551" id="1/16 cm. Tick no. 845" />
+    <path d="M2000.7874,0v5.90551" id="1/16 cm. Tick no. 847" />
+    <path d="M2005.51181,0v5.90551" id="1/16 cm. Tick no. 849" />
+    <path d="M2010.23622,0v5.90551" id="1/16 cm. Tick no. 851" />
+    <path d="M2014.96063,0v5.90551" id="1/16 cm. Tick no. 853" />
+    <path d="M2019.68504,0v5.90551" id="1/16 cm. Tick no. 855" />
+    <path d="M2024.40945,0v5.90551" id="1/16 cm. Tick no. 857" />
+    <path d="M2029.13386,0v5.90551" id="1/16 cm. Tick no. 859" />
+    <path d="M2033.85827,0v5.90551" id="1/16 cm. Tick no. 861" />
+    <path d="M2038.58268,0v5.90551" id="1/16 cm. Tick no. 863" />
+    <path d="M2043.30709,0v5.90551" id="1/16 cm. Tick no. 865" />
+    <path d="M2048.0315,0v5.90551" id="1/16 cm. Tick no. 867" />
+    <path d="M2052.75591,0v5.90551" id="1/16 cm. Tick no. 869" />
+    <path d="M2057.48031,0v5.90551" id="1/16 cm. Tick no. 871" />
+    <path d="M2062.20472,0v5.90551" id="1/16 cm. Tick no. 873" />
+    <path d="M2066.92913,0v5.90551" id="1/16 cm. Tick no. 875" />
+    <path d="M2071.65354,0v5.90551" id="1/16 cm. Tick no. 877" />
+    <path d="M2076.37795,0v5.90551" id="1/16 cm. Tick no. 879" />
+    <path d="M2081.10236,0v5.90551" id="1/16 cm. Tick no. 881" />
+    <path d="M2085.82677,0v5.90551" id="1/16 cm. Tick no. 883" />
+    <path d="M2090.55118,0v5.90551" id="1/16 cm. Tick no. 885" />
+    <path d="M2095.27559,0v5.90551" id="1/16 cm. Tick no. 887" />
+    <path d="M2100,0v5.90551" id="1/16 cm. Tick no. 889" />
+    <path d="M2104.72441,0v5.90551" id="1/16 cm. Tick no. 891" />
+    <path d="M2109.44882,0v5.90551" id="1/16 cm. Tick no. 893" />
+    <path d="M2114.17323,0v5.90551" id="1/16 cm. Tick no. 895" />
+    <path d="M2118.89764,0v5.90551" id="1/16 cm. Tick no. 897" />
+    <path d="M2123.62205,0v5.90551" id="1/16 cm. Tick no. 899" />
+    <path d="M2128.34646,0v5.90551" id="1/16 cm. Tick no. 901" />
+    <path d="M2133.07087,0v5.90551" id="1/16 cm. Tick no. 903" />
+    <path d="M2137.79528,0v5.90551" id="1/16 cm. Tick no. 905" />
+    <path d="M2142.51969,0v5.90551" id="1/16 cm. Tick no. 907" />
+    <path d="M2147.24409,0v5.90551" id="1/16 cm. Tick no. 909" />
+    <path d="M2151.9685,0v5.90551" id="1/16 cm. Tick no. 911" />
+    <path d="M2156.69291,0v5.90551" id="1/16 cm. Tick no. 913" />
+    <path d="M2161.41732,0v5.90551" id="1/16 cm. Tick no. 915" />
+    <path d="M2166.14173,0v5.90551" id="1/16 cm. Tick no. 917" />
+    <path d="M2170.86614,0v5.90551" id="1/16 cm. Tick no. 919" />
+    <path d="M2175.59055,0v5.90551" id="1/16 cm. Tick no. 921" />
+    <path d="M2180.31496,0v5.90551" id="1/16 cm. Tick no. 923" />
+    <path d="M2185.03937,0v5.90551" id="1/16 cm. Tick no. 925" />
+    <path d="M2189.76378,0v5.90551" id="1/16 cm. Tick no. 927" />
+    <path d="M2194.48819,0v5.90551" id="1/16 cm. Tick no. 929" />
+    <path d="M2199.2126,0v5.90551" id="1/16 cm. Tick no. 931" />
+    <path d="M2203.93701,0v5.90551" id="1/16 cm. Tick no. 933" />
+    <path d="M2208.66142,0v5.90551" id="1/16 cm. Tick no. 935" />
+    <path d="M2213.38583,0v5.90551" id="1/16 cm. Tick no. 937" />
+    <path d="M2218.11024,0v5.90551" id="1/16 cm. Tick no. 939" />
+    <path d="M2222.83465,0v5.90551" id="1/16 cm. Tick no. 941" />
+    <path d="M2227.55906,0v5.90551" id="1/16 cm. Tick no. 943" />
+    <path d="M2232.28346,0v5.90551" id="1/16 cm. Tick no. 945" />
+    <path d="M2237.00787,0v5.90551" id="1/16 cm. Tick no. 947" />
+    <path d="M2241.73228,0v5.90551" id="1/16 cm. Tick no. 949" />
+    <path d="M2246.45669,0v5.90551" id="1/16 cm. Tick no. 951" />
+    <path d="M2251.1811,0v5.90551" id="1/16 cm. Tick no. 953" />
+    <path d="M2255.90551,0v5.90551" id="1/16 cm. Tick no. 955" />
+    <path d="M2260.62992,0v5.90551" id="1/16 cm. Tick no. 957" />
+    <path d="M2265.35433,0v5.90551" id="1/16 cm. Tick no. 959" />
+  </g>
+</svg>
