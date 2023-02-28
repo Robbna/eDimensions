@@ -22,7 +22,7 @@ import ForkGithub from './ForkGithub.vue';
 #github-fork {
     position: absolute;
     top: 0;
-    right: 0;
+    right: -6px;
 }
 
 nav {

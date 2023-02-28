@@ -121,6 +121,8 @@ watch(inches, () => {
         background-size: cover;
         height: 400px;
         width: 375px;
+
+        overflow: auto;
     }
 
     .centimeters {
@@ -141,7 +143,7 @@ watch(inches, () => {
     }
 
     #tv-container #width {
-        top: 70px;
+        top: 65px;
         right: -140px;
     }
 

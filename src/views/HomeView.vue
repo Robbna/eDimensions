@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col justify-center items-center p-10">
+    <div class="flex flex-col justify-center items-center p-3 md:p-10">
         <div id="grid" class="grid justify-items-center grid-cols-2 md:gap-6 md:grid-cols-3 h-screen w-full">
             <HomeCard text="Inches" path-to="/inches" :img-path=InchesImage />
             <HomeCard text="Rule" path-to="/rule" :img-path=RuleImage />

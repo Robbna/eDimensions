@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center items-center p-6 w-full">
+  <div class="flex justify-center items-center p-3 w-full">
     <h1>MIT © Robbna.com 2023</h1>
   </div>
 </template>
