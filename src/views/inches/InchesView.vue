@@ -1,10 +1,10 @@
 <template>
-    <div class="flex justify-center items-center flex-col h-screen">
+    <div class="flex justify-center items-center flex-col h-screen overflow-auto">
         <div id="tv-container">
             <input type="number" v-model="inches" />
             <label id="inch-symbol">"</label>
-            <h4 class="centimeters" id="height">{{ height }} <small>cm</small></h4>
             <h4 class="centimeters" id="width">{{ width }} <small>cm</small></h4>
+            <h4 class="centimeters" id="height">{{ height }} <small>cm</small></h4>
             <label :hidden="!showError" id="error-label">Only inches below <span>99</span>!</label>
         </div>
     </div>
@@ -102,14 +102,14 @@ watch(inches, () => {
     width: 120px;
 }
 
-#tv-container #height {
-    top: 280px;
+#tv-container #width {
+    top: 265px;
     right: -640px;
 
     text-align: left;
 }
 
-#tv-container #width {
+#tv-container #height {
     top: 105px;
     right: -405px;
 }
@@ -121,8 +121,6 @@ watch(inches, () => {
         background-size: cover;
         height: 400px;
         width: 375px;
-
-        overflow: auto;
     }
 
     .centimeters {
@@ -135,14 +133,14 @@ watch(inches, () => {
         width: 30px;
     }
 
-    #tv-container #height {
+    #tv-container #width {
         top: 170px;
         right: -310px;
 
         text-align: left;
     }
 
-    #tv-container #width {
+    #tv-container #height {
         top: 65px;
         right: -140px;
     }
